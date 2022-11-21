@@ -1,0 +1,16 @@
+{
+  "name": "lesson_17",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 30000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "selenium-webdriver": "^4.6.1"
+  },
+  "description": ""
+}
