@@ -1,0 +1,7 @@
+/reports/
+/node_modules/
+/built/
+/allure-report/
+/allure-results/
+/browserLogs/
+/scripts/
