@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "fname": {
+      "type": "string"
+    },
+    "sname": {
+      "type": "string"
+    },
+    "percentage": {
+      "type": "string",
+      "format": "utc-millisec"
+    },
+    "result": {
+      "type": "string"
+    }
+  }
+}
