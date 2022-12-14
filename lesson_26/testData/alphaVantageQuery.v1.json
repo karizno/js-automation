@@ -1,0 +1,2137 @@
+{
+  "type": "object",
+  "properties": {
+    "Meta Data": {
+      "type": "object",
+      "properties": {
+        "1. Information": {
+          "type": "string"
+        },
+        "2. Symbol": {
+          "type": "string"
+        },
+        "3. Last Refreshed": {
+          "type": "string",
+          "format": "style"
+        },
+        "4. Interval": {
+          "type": "string"
+        },
+        "5. Output Size": {
+          "type": "string"
+        },
+        "6. Time Zone": {
+          "type": "string"
+        }
+      }
+    },
+    "Time Series (5min)": {
+      "type": "object",
+      "properties": {
+        "2019-12-02 16:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 15:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:30:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:25:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:20:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:15:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:10:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:05:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 15:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 14:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:30:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 14:25:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:20:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 14:15:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:10:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:05:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 14:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 13:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 13:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 13:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 13:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 13:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string",
+              "format": "utc-millisec"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 13:30:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 13:25:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 13:20:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 13:15:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string",
+              "format": "utc-millisec"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string",
+              "format": "utc-millisec"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 13:10:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 13:05:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 13:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-12-02 12:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:30:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:25:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:20:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:15:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:10:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:05:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 12:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:30:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:25:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:20:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:15:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:10:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:05:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 11:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:30:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:25:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:20:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:15:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:10:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:05:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 10:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 09:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 09:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 09:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 09:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-12-02 09:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-11-29 13:05:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-11-29 13:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-11-29 12:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:30:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:25:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:20:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:15:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:10:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-11-29 12:05:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 12:00:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 11:55:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 11:50:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 11:45:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 11:40:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 11:35:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        },
+        "2019-11-29 11:30:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 11:25:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "color"
+            }
+          }
+        },
+        "2019-11-29 11:20:00": {
+          "type": "object",
+          "properties": {
+            "1. open": {
+              "type": "string"
+            },
+            "2. high": {
+              "type": "string"
+            },
+            "3. low": {
+              "type": "string"
+            },
+            "4. close": {
+              "type": "string"
+            },
+            "5. volume": {
+              "type": "string",
+              "format": "utc-millisec"
+            }
+          }
+        }
+      }
+    }
+  }
+}

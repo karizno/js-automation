@@ -1,0 +1,33 @@
+{
+  "type": "array",
+  "description": "A list of sports",
+  "items": {
+    "type": "object",
+    "properties": {
+      "key": {
+        "type": "string",
+        "description": "A unique slug for the sport. Use this as the \"sport\" param in the /odds and /scores requests"
+      },
+      "active": {
+        "type": "boolean",
+        "description": "Indicates if the sport is in season"
+      },
+      "group": {
+        "type": "string",
+        "description": "A broader grouping"
+      },
+      "description": {
+        "type": "string",
+        "description": "A brief description of the sport. Subject to change (for example, if sponsors change)"
+      },
+      "title": {
+        "type": "string",
+        "description": "A presentable title of the sport. Occassionally this value can change, for example if a league undergoes a name change or change in sponsorship."
+      },
+      "has_outrights": {
+        "type": "boolean",
+        "description": "Indicates if the sport has outrights markets."
+      }
+    }
+  }
+}
